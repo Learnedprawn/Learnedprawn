@@ -9,15 +9,15 @@
 <p align="left"> <a href="https://twitter.com/@vineshparalkar" target="blank"><img src="https://img.shields.io/twitter/follow/@vineshparalkar?logo=twitter&style=for-the-badge" alt="vineshparalkar" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **UniSwap Clone**
+- 🔭 I’m currently working on **Mastering Anchor and Rust**
 
-- 🌱 I’m currently learning **Smart Contract Security Auditing**
+- 🌱 I’m currently learning **Smart Contract Security Auditing and the Solana Ecosystem**
 
 - 👯 I’m looking to collaborate on **Anything Web3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Learnedprawn](https://github.com/Learnedprawn)
 
-- 💬 Ask me about **BlockChain, Foundry, Solidity**
+- 💬 Ask me about **BlockChain, Foundry, Solidity, Solana, Rust**
 
 - 📫 How to reach me **vineshparalkar@gmail.com**
 
