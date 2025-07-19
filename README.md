@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Learnedprawn](https://github.com/Learnedprawn)
 
-- 💬 Ask me about **BlockChain, Foundry, Solidity, Solana, Rust**
+- 💬 Ask me about **Blockchain, Foundry, Solidity, Solana, Rust**
 
 - 📫 How to reach me **vineshparalkar@gmail.com**
 
