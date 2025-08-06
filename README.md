@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ua4bXP3KWroxj7KNOCdxIacJIee0Oqsc/view?usp=sharing](https://drive.google.com/file/d/1ua4bXP3KWroxj7KNOCdxIacJIee0Oqsc/view?usp=sharing)
 
-- ⚡ Fun fact **I once ate an Ant (It was good.)**
+- ⚡ Fun fact **I once ate an Ant (I use Arch btw and Neovim)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
